@@ -321,4 +321,24 @@ public class main {
 
 **OUTPUT**
 
-![image](output.jpeg)
+```
+Name        : Agung
+Address     : Jawa
+
+===============================================
+ORDER DETAILS
+===============================================
+Date        : Wed Dec 04 18:22:45 WIB 2024
+Status      : Online
+Items       :
+  - tv (Weight: 2,50 kg)
+  - keyboard (Weight: 1,20 kg)
+Total       : 300,00
+
+===============================================
+PAYMENT INFORMATION
+===============================================
+Cash        : 1500,00
+Check ID    : ***********987
+Credit      : ExpDate 2024-08-18
+```
